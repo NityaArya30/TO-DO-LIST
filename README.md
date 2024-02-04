@@ -16,7 +16,7 @@ The To-Do List Project is a simple yet powerful task management application aime
 This project aims to enhance productivity and help users stay on top of their daily responsibilities with a user-friendly and feature-rich to-do list application.
 
 ## Links to the Demo Project Respectively:
-https://nityaaarya30.github.io/to-do-list/
+https://nityaarya30.github.io/TO-DO-LIST/
 
 ## Contribution 
 Do Star my Project and do contribute to it.
